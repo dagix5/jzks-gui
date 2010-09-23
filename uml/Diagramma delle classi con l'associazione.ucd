@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" name="Diagramma delle classi con l'associazione" size="944,1185" id="it.unisa.dia.jzks.gui" metadata="uml2-1.0" initialized="true" scrolledX="6" tag="1000" key="32303037303533312D31303030206A7A6B732D6775692F446F74742E20436F7374616E7465">
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.2/@sourceConnections.0" name="CommitmentMerkleTree" location="30,123" size="194,405" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree" runTimeClassModel="CommitmentMerkleTree(IIII),commit(),CommitmentMerkleTree(Ljava.lang.String;ILjava.lang.String;),saveTreeToXML(Ljava.lang.String;Ljava.lang.String;),getTree(),CommitmentMerkleTree(II),populateTreeLeaves(Ljava.util.Hashtable;),printTree(),tree,CommitmentMerkleTree(Ljava.lang.String;),CommitmentMerkleTree(Ljava.lang.String;II),CommitmentMerkleTree,CommitmentMerkleTree(Ljava.lang.String;I),CommitmentMerkleTree(IIILjava.lang.String;),populateTreeLeavesTest(Ljava.util.Hashtable;),CommitmentMerkleTree(IIIILjava.lang.String;),CommitmentMerkleTree(III),CommitmentMerkleTree(Ljava.lang.String;IILjava.lang.String;)">
+    <children xsi:type="editmodel:CompartmentEditModel" size="128,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="tree" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#tree"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="149,324">
+      <children xsi:type="editmodel:MethodEditModel" name="CommitmentMerkleTree" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#CommitmentMerkleTree(IIIILjava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CommitmentMerkleTree" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#CommitmentMerkleTree(III)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CommitmentMerkleTree" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#CommitmentMerkleTree(Ljava.lang.String;II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CommitmentMerkleTree"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CommitmentMerkleTree" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#CommitmentMerkleTree(IIILjava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CommitmentMerkleTree" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#CommitmentMerkleTree(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CommitmentMerkleTree" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#CommitmentMerkleTree(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CommitmentMerkleTree" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#CommitmentMerkleTree(Ljava.lang.String;ILjava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CommitmentMerkleTree" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#CommitmentMerkleTree(Ljava.lang.String;IILjava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CommitmentMerkleTree" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#CommitmentMerkleTree(IIII)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CommitmentMerkleTree" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#CommitmentMerkleTree(Ljava.lang.String;I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="commit" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#commit()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getTree" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#getTree()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="populateTreeLeaves" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#populateTreeLeaves(Ljava.util.Hashtable;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="populateTreeLeavesTest" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#populateTreeLeavesTest(Ljava.util.Hashtable;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="printTree" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#printTree()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="saveTreeToXML" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#saveTreeToXML(Ljava.lang.String;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CommitmentMerkleTree" id="it.unisa.dia.jzks.edb/CommitmentMerkleTree#CommitmentMerkleTree"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.2/@sourceConnections.3" name="PiGreek" location="240,195" size="118,261" id="it.unisa.dia.jzks.edb/PiGreek" runTimeClassModel="getValue(),saveToXML(Ljava.lang.String;Ljava.lang.String;),isFound(),loadFromXML(Ljava.lang.String;),setFound(Z),setValue(Ljava.lang.Object;),value,setKey(Ljava.lang.String;),getKey(),key,found">
+    <children xsi:type="editmodel:CompartmentEditModel" size="91,54">
+      <children xsi:type="editmodel:AttributeEditModel" name="found" id="it.unisa.dia.jzks.edb/PiGreek#found"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="key" id="it.unisa.dia.jzks.edb/PiGreek#key"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="value" id="it.unisa.dia.jzks.edb/PiGreek#value"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="95,144">
+      <children xsi:type="editmodel:MethodEditModel" name="getKey" id="it.unisa.dia.jzks.edb/PiGreek#getKey()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getValue" id="it.unisa.dia.jzks.edb/PiGreek#getValue()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isFound" id="it.unisa.dia.jzks.edb/PiGreek#isFound()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="loadFromXML" id="it.unisa.dia.jzks.edb/PiGreek#loadFromXML(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="saveToXML" id="it.unisa.dia.jzks.edb/PiGreek#saveToXML(Ljava.lang.String;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setFound" id="it.unisa.dia.jzks.edb/PiGreek#setFound(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setKey" id="it.unisa.dia.jzks.edb/PiGreek#setKey(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setValue" id="it.unisa.dia.jzks.edb/PiGreek#setValue(Ljava.lang.Object;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Operating" location="300,15" size="191,146" id="it.unisa.dia.jzks.gui/Operating" runTimeClassModel="Operating(),it.unisa.dia.jzks.gui.Operating.ThreadCommitment">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="77,18">
+      <children xsi:type="editmodel:MethodEditModel" name="Operating" id="it.unisa.dia.jzks.gui/Operating#Operating()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="168,69">
+      <children xsi:type="editmodel:ClassEditModel" name="ThreadCommitment" size="168,67" id="it.unisa.dia.jzks.gui/Operating$ThreadCommitment" runTimeClassModel="run()">
+        <children xsi:type="editmodel:CompartmentEditModel"/>
+        <children xsi:type="editmodel:CompartmentEditModel" size="46,18">
+          <children xsi:type="editmodel:MethodEditModel" name="run" id="it.unisa.dia.jzks.gui/Operating$ThreadCommitment#run()"/>
+        </children>
+        <children xsi:type="editmodel:CompartmentEditModel"/>
+        <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+      </children>
+    </children>
+    <sourceConnections xsi:type="editmodel:AssociationEditModel" autoLocated="true" source="//@children.2" target="//@children.0" targetEnd="//@children.2/@sourceConnections.0/@children.2" label="//@children.2/@sourceConnections.0/@children.0" sourceEnd="//@children.2/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" size="0,14" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="12,127" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="comm" location="194,19" multiplicityLabel="//@children.2/@sourceConnections.0/@children.2/@children.1" roleLabel="//@children.2/@sourceConnections.0/@children.2/@children.0" navigable="true">
+        <children xsi:type="editmodel:LabelEditModel" name=" - comm" location="231,121" size="38,14" anchorKind="LastPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="231,149" size="18,14" anchorKind="LastPart"/>
+      </children>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:AssociationEditModel" autoLocated="true" source="//@children.2" target="//@children.4" targetEnd="//@children.2/@sourceConnections.1/@children.2" label="//@children.2/@sourceConnections.1/@children.0" sourceEnd="//@children.2/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" size="0,14" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="147,146" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="tree" location="42,0" multiplicityLabel="//@children.2/@sourceConnections.1/@children.2/@children.1" roleLabel="//@children.2/@sourceConnections.1/@children.2/@children.0" navigable="true">
+        <children xsi:type="editmodel:LabelEditModel" name=" - tree" location="454,204" size="29,14" anchorKind="LastPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="422,204" size="18,14" anchorKind="LastPart"/>
+      </children>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:AssociationEditModel" autoLocated="true" source="//@children.2" target="//@children.3" targetEnd="//@children.2/@sourceConnections.2/@children.2" label="//@children.2/@sourceConnections.2/@children.0" sourceEnd="//@children.2/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" size="0,14" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="191,125" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="root" location="0,20" multiplicityLabel="//@children.2/@sourceConnections.2/@children.2/@children.1" roleLabel="//@children.2/@sourceConnections.2/@children.2/@children.0" navigable="true">
+        <children xsi:type="editmodel:LabelEditModel" name=" - root" location="549,119" size="29,14" anchorKind="LastPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="560,147" size="18,14" anchorKind="LastPart"/>
+      </children>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:AssociationEditModel" autoLocated="true" source="//@children.2" target="//@children.1" targetEnd="//@children.2/@sourceConnections.3/@children.2" label="//@children.2/@sourceConnections.3/@children.0" sourceEnd="//@children.2/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" size="0,14" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="28,146" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="piGreek" location="88,0" multiplicityLabel="//@children.2/@sourceConnections.3/@children.2/@children.1" roleLabel="//@children.2/@sourceConnections.3/@children.2/@children.0" navigable="true">
+        <children xsi:type="editmodel:LabelEditModel" name=" - piGreek" location="335,174" size="47,14" anchorKind="LastPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="303,174" size="18,14" anchorKind="LastPart"/>
+      </children>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.2/@sourceConnections.2" name="RootMerkleNode" location="585,120" size="210,315" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode" runTimeClassModel="pkLeaves,saveToXML(Ljava.lang.String;Ljava.lang.String;),hashAlgo,getPkLeaves(),setPkLeaves(Ljava.util.ArrayList;),setCommInfo(Lit.unisa.dia.jzks.edb.CommitmentInformations;),getHashAlgo(),setPk(Ljava.util.ArrayList;),loadFromXML(Ljava.lang.String;),getCommInfo(),getPk(),commInfo,setHashAlgo(Ljava.lang.String;),pk">
+    <children xsi:type="editmodel:CompartmentEditModel" size="187,72">
+      <children xsi:type="editmodel:AttributeEditModel" name="commInfo" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode#commInfo"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="hashAlgo" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode#hashAlgo"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pk" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode#pk"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pkLeaves" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode#pkLeaves"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="95,180">
+      <children xsi:type="editmodel:MethodEditModel" name="getCommInfo" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode#getCommInfo()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getHashAlgo" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode#getHashAlgo()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getPk" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode#getPk()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getPkLeaves" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode#getPkLeaves()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="loadFromXML" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode#loadFromXML(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="saveToXML" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode#saveToXML(Ljava.lang.String;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setCommInfo" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode#setCommInfo(Lit.unisa.dia.jzks.edb.CommitmentInformations;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setHashAlgo" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode#setHashAlgo(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setPk" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode#setPk(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setPkLeaves" id="it.unisa.dia.jzks.merkleTree/RootMerkleNode#setPkLeaves(Ljava.util.ArrayList;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.2/@sourceConnections.1" name="LinkedMerkleTree" location="405,225" size="156,675" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree" runTimeClassModel="getBitNode(),saveToXML(Ljava.lang.String;Ljava.lang.String;),getBaseSeed(),postOrderInternal(),size(),setBaseSeed([B),root(),createNode(ILjava.lang.String;),printTree(),insert(Lit.unisa.dia.jzks.merkleTree.ExternalMerkleNode;[BI),lambda,LinkedMerkleTree(),loadFromXML(Ljava.lang.String;),postOrder(),logger,setLambda(I),getQ(),parent(Lit.unisa.dia.lasd.position.Position;),height(),numberOfChildren(Lit.unisa.dia.lasd.position.Position;),bitNode,isRoot(Lit.unisa.dia.lasd.position.Position;),atDepth(I),children(Lit.unisa.dia.lasd.position.Position;),setQ(I),setBitNode(I),buildVisualTree,findChild(Lit.unisa.dia.lasd.position.Position;Ljava.lang.String;),replace(Lit.unisa.dia.lasd.position.Position;Lit.unisa.dia.jzks.merkleTree.MerkleNode;),insert(Lit.unisa.dia.jzks.merkleTree.ExternalMerkleNode;Ljava.lang.String;I),q,getLambda(),baseSeed,preOrder()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="126,90">
+      <children xsi:type="editmodel:AttributeEditModel" name="baseSeed" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#baseSeed"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="bitNode" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#bitNode"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="lambda" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#lambda"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="logger" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#logger"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="q" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#q"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="117,522">
+      <children xsi:type="editmodel:MethodEditModel" name="LinkedMerkleTree" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#LinkedMerkleTree()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="atDepth" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#atDepth(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="children" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#children(Lit.unisa.dia.lasd.position.Position;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="createNode" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#createNode(ILjava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="findChild" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#findChild(Lit.unisa.dia.lasd.position.Position;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getBaseSeed" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#getBaseSeed()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getBitNode" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#getBitNode()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getLambda" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#getLambda()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getQ" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#getQ()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="height" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#height()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="insert" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#insert(Lit.unisa.dia.jzks.merkleTree.ExternalMerkleNode;[BI)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="insert" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#insert(Lit.unisa.dia.jzks.merkleTree.ExternalMerkleNode;Ljava.lang.String;I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isRoot" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#isRoot(Lit.unisa.dia.lasd.position.Position;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="loadFromXML" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#loadFromXML(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="numberOfChildren" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#numberOfChildren(Lit.unisa.dia.lasd.position.Position;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="parent" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#parent(Lit.unisa.dia.lasd.position.Position;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="postOrder" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#postOrder()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="postOrderInternal" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#postOrderInternal()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="preOrder" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#preOrder()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="printTree" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#printTree()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="replace" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#replace(Lit.unisa.dia.lasd.position.Position;Lit.unisa.dia.jzks.merkleTree.MerkleNode;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="root" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#root()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="saveToXML" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#saveToXML(Ljava.lang.String;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setBaseSeed" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#setBaseSeed([B)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setBitNode" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#setBitNode(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setLambda" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#setLambda(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setQ" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#setQ(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="size" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#size()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="buildVisualTree" id="it.unisa.dia.jzks.merkleTree/LinkedMerkleTree#buildVisualTree"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Main_JZKS" location="246,540" size="112,85" id="it.unisa.dia.jzks.gui/Main_JZKS" runTimeClassModel="main([Ljava.lang.String;),Main_JZKS()">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="84,36">
+      <children xsi:type="editmodel:MethodEditModel" name="Main_JZKS" id="it.unisa.dia.jzks.gui/Main_JZKS#Main_JZKS()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="it.unisa.dia.jzks.gui/Main_JZKS#main([Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <diagramOptions xsi:type="options:ClassDiagramOptions" level="-1" properties="wireOptions=3;Product=eUML2"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="15,15" gridOrigin="0,0" rulerUnit="pixel" gridVisibility="false">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" showPopupBars="true" showConnectionHandles="true" attributeSorter="Natural" methodSorter="Natural" showClassStereotype="true" showPackageStereotype="true" showDependencyStereotype="true" showInterfaceStereotype="true" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+</editmodel:ClassDiagramEditModel>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" name="Dependencies" size="803,385" id="." metadata="uml2-1.0" initialized="true" tag="1000" key="32303037303533312D31303030206A7A6B732D6775692F446F74742E20436F7374616E7465">
+  <children xsi:type="editmodel:PackageEditModel" name="com.cloudgarden.layout" location="503,50" size="189,60" id="com.cloudgarden.layout"/>
+  <children xsi:type="editmodel:PackageEditModel" name="it.unisa.dia.jzks.gui" location="50,50" size="157,60" id="it.unisa.dia.jzks.gui">
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="it.unisa.dia.jzks.gui-Standard::Call->it.unisa.dia.jzks.gui.utils*it.unisa.dia.jzks.gui-Standard::Instantiate->it.unisa.dia.jzks.gui.utils*it.unisa.dia.jzks.gui-Soyatec::Import->it.unisa.dia.jzks.gui.utils" source="//@children.1" target="//@children.2" targetEnd="//@children.1/@sourceConnections.0/@children.2" label="//@children.1/@sourceConnections.0/@children.0" sourceEnd="//@children.1/@sourceConnections.0/@children.1" connectionRouterKind="Manual">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«Import, Call, Instantiate»" size="119,14" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="157,30" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,30"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:PackageEditModel" targetConnections="//@children.1/@sourceConnections.0" name="it.unisa.dia.jzks.gui.utils" location="266,50" size="187,60" id="it.unisa.dia.jzks.gui.utils"/>
+  <diagramOptions xsi:type="options:ClassDiagramOptions" interactive="false" properties="wireOptions=4;Product=eUML2;displayOptions=1"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="15,15" gridOrigin="0,0" rulerUnit="pixel" gridVisibility="false">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" showPopupBars="true" showConnectionHandles="true" attributeSorter="Natural" methodSorter="Natural" showClassStereotype="true" showPackageStereotype="true" showDependencyStereotype="true" showInterfaceStereotype="true" innerClassSorter="Natural" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3"/>
+</editmodel:ClassDiagramEditModel>
